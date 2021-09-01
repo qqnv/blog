@@ -1,0 +1,23 @@
+﻿- class_name: 友链
+  class_desc: 
+  link_list:
+    - name: 刘望舒
+      link: http://liuwangshu.cn/
+      avatar: https://cdn.qqnv.com/bea1.png
+      descr: Android进阶三部曲系列图书作者，腾讯云TVP、前华为技术专家
+    - name: Rouse
+      link: https://rousetime.com/
+      avatar: https://cdn.qqnv.com/bea2.png
+      descr: 一步一个脚印
+    - name: HuanBlog
+      link: https://qwerhuan.gitee.io/
+      avatar: https://cdn.qqnv.com/bea3.png
+      descr: 热爱程序，热爱学习。
+
+- class_name: 网站
+  class_desc: 
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://cdn.qqnv.com/bea1.png
+      descr: 视频网站
